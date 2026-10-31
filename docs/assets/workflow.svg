@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-labelledby="title desc">
+  <title id="title">From experience to a targeted resume</title>
+  <desc id="desc">Understand the target, map evidence, clarify gaps, rewrite, and review. When evidence is missing, ask or leave out the unsupported claim.</desc>
+  <rect width="1280" height="280" rx="18" fill="#F5F5F0"/>
+  <text x="35" y="40" fill="#17333D" font-family="Arial, sans-serif" font-size="19" font-weight="700">A practical workflow, with evidence at every step</text>
+  <g fill="none" stroke="#8FA9A6" stroke-width="2"><path d="M248 130H278m-7-6 7 6-7 6M496 130H526m-7-6 7 6-7 6M744 130H774m-7-6 7 6-7 6M992 130H1022m-7-6 7 6-7 6"/></g>
+  <g fill="#FFFFFF" stroke="#D6DFD9"><rect x="30" y="70" width="218" height="125" rx="12"/><rect x="278" y="70" width="218" height="125" rx="12"/><rect x="526" y="70" width="218" height="125" rx="12"/><rect x="774" y="70" width="218" height="125" rx="12"/><rect x="1022" y="70" width="228" height="125" rx="12"/></g>
+  <g font-family="Arial, sans-serif" font-size="14" fill="#B6483F" font-weight="700"><text x="48" y="99">01 / TARGET</text><text x="296" y="99">02 / EVIDENCE</text><text x="544" y="99">03 / CLARIFY</text><text x="792" y="99">04 / REWRITE</text><text x="1040" y="99">05 / REVIEW</text></g>
+  <g font-family="Arial, sans-serif" font-size="20" fill="#17333D" font-weight="700"><text x="48" y="133">Read the role</text><text x="296" y="133">Connect the facts</text><text x="544" y="133">Ask about gaps</text><text x="792" y="133">Show the work</text><text x="1040" y="133">Check each claim</text></g>
+  <g font-family="Arial, sans-serif" font-size="14" fill="#526970"><text x="48" y="164">Requirements vs. preferences</text><text x="296" y="164">Use supplied experience</text><text x="544" y="164">Never manufacture results</text><text x="792" y="164">Action + context + outcome</text><text x="1040" y="164">Facts, clarity, and format</text></g>
+  <rect x="30" y="216" width="1220" height="38" rx="8" fill="#E0EBE4"/>
+  <text x="49" y="241" font-family="Arial, sans-serif" font-size="15" fill="#28564C">Missing a result? Keep the verified action and scope. Ask a follow-up. Leave unsupported claims out of the resume.</text>
+</svg>

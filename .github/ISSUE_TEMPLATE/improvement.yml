@@ -1,0 +1,17 @@
+name: Suggest an improvement
+description: Propose a useful scenario, reference, or workflow change.
+title: "[Idea] "
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: Who needs this, and for what task?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change and example
+      description: Use fictional information only; explain how to evaluate the improvement.
+    validations:
+      required: true

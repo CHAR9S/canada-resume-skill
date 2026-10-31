@@ -1,0 +1,19 @@
+title: ""
+body:
+  - type: markdown
+    attributes:
+      value: "Share a question or a usage experience. Use fictional or fully redacted text; do not attach real resumes."
+  - type: textarea
+    id: context
+    attributes:
+      label: What were you trying to do?
+      description: Target role, AI client, and task. No identifying details needed.
+    validations:
+      required: true
+  - type: textarea
+    id: feedback
+    attributes:
+      label: What helped, and what still needed work?
+      description: Specific examples help improve the skill. Questions are welcome too.
+    validations:
+      required: true

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+  <title id="title">Canada Resume Skill</title>
+  <desc id="desc">Real experience. Clear evidence. Better resumes. An open-source workflow for Canadian job applications.</desc>
+  <rect width="1280" height="440" rx="24" fill="#132C35"/>
+  <circle cx="1230" cy="55" r="260" fill="#1B3B43"/>
+  <path d="M0 404H1280" stroke="#36515A"/>
+  <rect x="62" y="57" width="254" height="33" rx="16" fill="#D7E7DF"/>
+  <text x="81" y="79" fill="#173A36" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.8">OPEN SOURCE / CANADA</text>
+  <text x="62" y="162" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="58" font-weight="700">Canada Resume</text>
+  <text x="62" y="224" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="58" font-weight="700">Skill</text>
+  <text x="65" y="278" fill="#DEE8E7" font-family="Arial, sans-serif" font-size="25">Real experience. Clear evidence.</text>
+  <text x="65" y="314" fill="#DEE8E7" font-family="Arial, sans-serif" font-size="25">Better resumes.</text>
+  <text x="65" y="373" fill="#A9C5C7" font-family="Arial, sans-serif" font-size="16">JOB MATCHING  /  ACCOMPLISHMENTS  /  EXPLAINED EDITS</text>
+  <rect x="831" y="49" width="345" height="318" rx="16" fill="#F7F5EF"/>
+  <rect x="861" y="78" width="43" height="7" rx="3" fill="#C34E41"/>
+  <text x="861" y="118" fill="#17333D" font-family="Arial, sans-serif" font-size="22" font-weight="700">YOUR EXPERIENCE</text>
+  <path d="M861 139H1145" stroke="#D8DED9"/>
+  <circle cx="871" cy="173" r="10" fill="#D7E7DF"/>
+  <path d="m866 173 4 4 7-8" fill="none" stroke="#267568" stroke-width="2"/>
+  <text x="894" y="179" fill="#314C53" font-family="Arial, sans-serif" font-size="17">Relevant to the role</text>
+  <circle cx="871" cy="219" r="10" fill="#D7E7DF"/>
+  <path d="m866 219 4 4 7-8" fill="none" stroke="#267568" stroke-width="2"/>
+  <text x="894" y="225" fill="#314C53" font-family="Arial, sans-serif" font-size="17">Grounded in facts</text>
+  <circle cx="871" cy="265" r="10" fill="#D7E7DF"/>
+  <path d="m866 265 4 4 7-8" fill="none" stroke="#267568" stroke-width="2"/>
+  <text x="894" y="271" fill="#314C53" font-family="Arial, sans-serif" font-size="17">Clearly expressed</text>
+  <rect x="861" y="302" width="284" height="37" rx="8" fill="#E8ECE7"/>
+  <text x="883" y="326" fill="#315A52" font-family="Arial, sans-serif" font-size="15">Built around what you actually did.</text>
+  <text x="62" y="428" fill="#A9C5C7" font-family="Arial, sans-serif" font-size="13">CHAR9S / CANADA-RESUME-SKILL</text>
+</svg>

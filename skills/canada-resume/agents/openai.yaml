@@ -1,0 +1,4 @@
+interface:
+  display_name: "Canada Resume"
+  short_description: "Tailor Canadian resumes with evidence and clear outcomes"
+  default_prompt: "Use $canada-resume to review my resume against this Canadian job posting, explain the changes, and keep every claim grounded in my experience."

@@ -1,0 +1,28 @@
+name: Report a problem
+description: Report an incorrect rule, unsupported claim, or installation issue.
+title: "[Problem] "
+body:
+  - type: markdown
+    attributes:
+      value: "Use fictional or redacted examples. Do not upload a real resume or personal contact details."
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Include the AI client and the skill version, if relevant.
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: Minimal fictional example
+      description: Show the request, relevant input, and unexpected output.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What should change?
+      description: Link a primary source if correcting Canadian application guidance.
+    validations:
+      required: true

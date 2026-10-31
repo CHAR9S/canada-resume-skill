@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Usage questions and feedback
+    url: https://github.com/CHAR9S/canada-resume-skill/discussions
+    about: Share an anonymized experience or ask how to use the skill.
