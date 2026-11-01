@@ -2,7 +2,9 @@
 
 # Canada Resume Skill
 
-**Turn real experience into a clear, targeted Canadian resume.** An open-source AI skill that connects job requirements to your evidence, improves accomplishment statements, and explains what changed.
+**Career Evidence · 01 / Resume** · By [CHAR9S](https://github.com/CHAR9S)
+
+**Make your experience easier for Canadian employers to understand.** An open-source AI skill informed by Canadian employment-service training materials and public employment guidance. Match your experience to a specific role, turn duties into grounded accomplishment statements, and understand every edit.
 
 [中文说明](README.zh-CN.md) · [Quick start](#quick-start) · [Worked example](examples/administrative-assistant.md) · [Discussions](https://github.com/CHAR9S/canada-resume-skill/discussions) · [Source notes](skills/canada-resume/references/sources.md)
 
@@ -100,7 +102,7 @@ scripts/validate.py          Local package and link checks
 
 ## Quality and evidence
 
-The workflow was informed by Centre for Skills Development handouts and cross-checked against public Canadian employment guidance. It uses original instructions and examples; the source scan is not included. See [source notes and editorial changes](skills/canada-resume/references/sources.md).
+The workflow draws on resume-training handouts from a Canadian employment-service organization and was cross-checked against public Canadian employment guidance. It uses original instructions and examples; the source scan is not included. See [source notes and editorial changes](skills/canada-resume/references/sources.md).
 
 Release 0.1.0 is an initial public version. [Evaluation cases](docs/evaluation.md) document what to test, and [validation status](docs/validation.md) distinguishes completed checks from untested behavior. There is no measured claim of better hiring outcomes.
 
@@ -116,6 +118,12 @@ Try one task and tell us what happened in [Discussions](https://github.com/CHAR9
 
 Found a rule that needs correction? [Open an issue](https://github.com/CHAR9S/canada-resume-skill/issues/new/choose) with the source and context. Read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a change. If the skill helps you, a star makes it easier for others to find; follow [CHAR9S](https://github.com/CHAR9S) for future work.
 
+## About the creator
+
+CHAR9S is an independent designer and builder with 15+ years in motion and visual design, a background in film and brand production, and experience running a creative studio. Today, the focus is on combining design, visual storytelling, and AI to build practical, reusable workflows.
+
+Career Evidence brings that production mindset to career materials. The resume skill is available now; a companion personal interview-presentation skill is in development. This is independent work informed by employment resources, not a claim of recruiting or career-counselling credentials.
+
 ## Licence and attribution
 
-[MIT](LICENSE) for original project files. Third-party source materials retain their own rights. This project is independent and is not endorsed by Centre for Skills Development, WorkBC, the Government of Canada, or any AI vendor.
+[MIT](LICENSE) for original project files. Third-party source materials retain their own rights. This project is independent and is not endorsed by the training-material provider, government employment services, or any AI vendor.

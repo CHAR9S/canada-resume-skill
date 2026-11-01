@@ -4,7 +4,7 @@ Reviewed: 2026-10-31. This is an independent project by CHAR9S, not an official 
 
 ## Foundational handouts
 
-A user-supplied, eight-page scan of **Centre for Skills Development** resume handouts informed the workflow. Publication date is unknown. The organization's printed web address is [centreforskills.ca](https://www.centreforskills.ca/); this is an organization link, not a verified public URL for the handouts.
+A user-supplied, eight-page scan of **a Canadian employment-service organization** resume handouts informed the workflow. Publication date is unknown. The provider name and original scan are withheld in the current public documentation at the contributor’s request. This limits independent verification of that source; the public cross-checks below remain available. No institutional endorsement is implied.
 
 | Scan pages | Topic | Use in this project |
 | --- | --- | --- |

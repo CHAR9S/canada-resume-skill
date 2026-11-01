@@ -2,7 +2,11 @@
 
 # Canada Resume Skill · 加拿大求职简历优化技能
 
-**让真实经历更清楚地匹配目标岗位。** 将加拿大简历写作方法变成 AI 可执行的流程：分析职位、核对证据、改写经历，并解释修改原因。
+**Career Evidence 系列 · 01 / 简历** · 作者：[CHAR9S](https://github.com/CHAR9S)
+
+**让真实经历，更符合加拿大招聘语境。** 提炼加拿大本地就业服务机构的简历培训资料，结合公开就业指导，将岗位分析、经历核对与成果表达整理成可直接使用的 AI 工作流。
+
+围绕具体岗位调整，贴近本地申请习惯；把职责写成有依据的贡献，每次修改都有理由。
 
 [English](README.md) · [完整示例](examples/administrative-assistant.md) · [讨论区](https://github.com/CHAR9S/canada-resume-skill/discussions) · [资料来源](skills/canada-resume/references/sources.md)
 
@@ -64,3 +68,9 @@
 第一版的[验证状态](docs/validation.md)和[评估场景](docs/evaluation.md)公开可查。如果这个技能对你有帮助，欢迎 Star，也可关注作者 [CHAR9S](https://github.com/CHAR9S)。
 
 原创项目内容使用 [MIT 许可证](LICENSE)。第三方资料保留原有权利，本项目不代表资料提供机构或 AI 平台。
+
+## 关于作者
+
+CHAR9S 是独立设计师与创作者，拥有 15 年以上动态与视觉设计经验，背景涵盖影视内容、品牌视觉及创意工作室经营。长期参与从概念到交付的完整制作过程，目前专注于将设计、视觉叙事与 AI 工作流结合，把实际工作中的方法整理成清晰、可复用的工具。
+
+Career Evidence 是这一方向的开源实践。简历技能已发布，配套的个人求职／面试展示技能正在开发。作者的专业背景是设计与内容制作，不宣称拥有招聘顾问或职业咨询资质。
