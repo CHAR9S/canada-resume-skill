@@ -122,7 +122,7 @@ Found a rule that needs correction? [Open an issue](https://github.com/CHAR9S/ca
 
 CHAR9S is an independent designer and builder with 15+ years in motion and visual design, a background in film and brand production, and experience running a creative studio. Today, the focus is on combining design, visual storytelling, and AI to build practical, reusable workflows.
 
-Career Evidence brings that production mindset to career materials. The resume skill is available now; a companion personal interview-presentation skill is in development. This is independent work informed by employment resources, not a claim of recruiting or career-counselling credentials.
+Career Evidence brings that production mindset to career materials. The resume skill is available now; the companion [Interview Presentation Skill](https://github.com/CHAR9S/career-presentation-skill) is also available. This is independent work informed by employment resources, not a claim of recruiting or career-counselling credentials.
 
 ## Licence and attribution
 
